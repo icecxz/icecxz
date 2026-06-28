@@ -1,6 +1,6 @@
 # Hi, I'm Aisultan 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=26\&pause=1000\&color=339F95\&width=700\&lines=Computer+Science+Student;Learning+Java+%26+Backend+Development;Practicing+Algorithms+on+Codeforces;Building+projects+and+improving+every+day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=26\&pause=1000\&color=58A6FF\&width=700\&lines=Computer+Science+Student;Learning+Java+%26+Backend+Development;Practicing+Algorithms+on+Codeforces;Building+projects+and+improving+every+day)](https://git.io/typing-svg)
 
 I'm a **Computer Science student** focused on **Software Engineering**, **Backend Development**, and problem solving.
 Currently, I'm building strong fundamentals in **Java, C++, Git, algorithms, and software project structure**.
