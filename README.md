@@ -43,7 +43,7 @@ Currently, I'm building strong fundamentals in **Java, C++, Git, algorithms, and
 
 Solving algorithmic problems to improve logic, implementation speed, and understanding of data structures.
 
-**Focus:** recursion, binary search, arrays, greedy algorithms, complexity analysis
+**Focus:** recursion, binary search, arrays, greedy algorithms, dynamic programming, complexity analysis
 
 ---
 
